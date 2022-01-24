@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "488502275415",
+    "firebase_url": "https://nepali-jokes-teller.firebaseio.com",
+    "project_id": "nepali-jokes-teller",
+    "storage_bucket": "nepali-jokes-teller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488502275415:android:7d66a63c8573351f9ae212",
+        "android_client_info": {
+          "package_name": "com.cooldeveloper.nepalijokesteller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488502275415-068q8eavjts2mm1qrs91ltm90g1vpka8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1KKh9NM7mwz2Tx75KfukKr5tY4cpkvY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488502275415-068q8eavjts2mm1qrs91ltm90g1vpka8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
